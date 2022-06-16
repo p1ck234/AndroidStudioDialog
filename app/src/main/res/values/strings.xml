@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android Studio Dialog</string>
+    <string name="Title">Закрыть приложение</string>
+    <string name="Title1">Множественный выбор</string>
+</resources>
